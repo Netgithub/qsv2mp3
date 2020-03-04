@@ -16,7 +16,7 @@
 ![5](https://github.com/Netgithub/qsv2mp3/blob/master/image/5.png)  
 
 ![6](https://github.com/Netgithub/qsv2mp3/blob/master/image/6.png)  
-转换出来的FLV文件
+转换出来的FLV文件  
 ![7](https://github.com/Netgithub/qsv2mp3/blob/master/image/7.png)  
 
 
