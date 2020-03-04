@@ -1,9 +1,9 @@
 # qsv2mp3
 
-#工具准备
-1）PC个人电脑
-2）windows 环境
-3）下载链接:https://pan.baidu.com/s/12rK8Ds24CUsJsAFzLkflcw 提取码:ug6m 工具
+#工具准备  
+1）PC个人电脑  
+2）windows 环境  
+3）下载链接:https://pan.baidu.com/s/12rK8Ds24CUsJsAFzLkflcw 提取码:ug6m   
 ##解压下载下来的包
 ![1](https://github.com/Netgithub/qsv2mp3/blob/master/image/1.png)  
 双击  
